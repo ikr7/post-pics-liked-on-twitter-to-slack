@@ -1,0 +1,13 @@
+{
+  "name": "post-pics-liked-on-twitter-to-slack",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "source env.rc && node app.js"
+  },
+  "author": "ikr7",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.80.0",
+    "twitter": "^1.7.0"
+  }
+}
